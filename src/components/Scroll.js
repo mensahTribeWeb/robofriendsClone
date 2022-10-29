@@ -10,5 +10,4 @@ const Scroll = (props) => {
     </div>
   );
 };
-
 export default Scroll;
